@@ -20,7 +20,9 @@ Atari Punk Console (アタリ・パンク・コンソール)、略してAPCは�
 ![](./images/APC_board_connect.jpg)
 
 
-## サンプルRhinoファイル
+## 各パーツのRhinoファイル
+各パーツの3Dモデルとケースへの固定方法の例を作成した。下記リンクよりそれぞれダウンロードできる。
+
 - [Battery(電池パック)](./3dfiles/battery_pack.3dm)
 - [Trimmer(トリマー)](./3dfiles/potentiometer.3dm)
 - [Switch(スイッチ)](./3dfiles/switch.3dm)
@@ -28,5 +30,8 @@ Atari Punk Console (アタリ・パンク・コンソール)、略してAPCは�
 - [APCボード](./3dfiles/APC_board.3dm)
 
 
-<br>
+## ケースの作例
+上記で紹介した各パーツの固定方法を利用した活用方法の一例を紹介する。<br>
+下記リンクよりダウンロードできるので、必要あれば参照すること。
+
 - [APCケースのサンプル](./3dfiles/APC_sample_case.3dm)
