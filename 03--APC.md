@@ -26,3 +26,7 @@ Atari Punk Console (アタリ・パンク・コンソール)、略してAPCは�
 - [Switch(スイッチ)](./3dfiles/switch.3dm)
 - [Speaker(スピーカー)](./3dfiles/piezo_speaker.3dm)
 - [APCボード](./3dfiles/APC_board.3dm)
+
+
+<br>
+- [APCケースのサンプル](./3dfiles/APC_sample_case.3dm)
