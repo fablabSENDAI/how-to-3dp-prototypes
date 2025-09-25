@@ -25,12 +25,6 @@ nav_exclude: true
 
 - オフセットの重要性
 
-- 良く使うRhinoコマンドリスト
-    - import
-    - DupEdge
-    - MakeHole
-    - Untrim
-    - Gumballでの面移動
 
 - プリンターの造形サイズ
 
